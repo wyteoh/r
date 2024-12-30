@@ -1,0 +1,164 @@
+body{
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url(https://preview.redd.it/s5krmpc8taq41.jpg?width=640&crop=smart&auto=webp&s=9d38176fef0a94f7529eb46d8ca5cefb06542071);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size:cover ;
+
+}
+nav {
+    background-color: #004225;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px 15px 1px 1px;
+
+}
+
+
+nav a{
+    padding: 0px 20px;
+    font-size: 1.7rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 0;
+    text-shadow: 4px 5px 3px #004225;
+
+    
+
+}
+
+nav a:hover{
+    color: rgb(123, 255, 218);
+    text-decoration: underline;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    border:0px solid black;
+    background-color:#FFB000 ;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-radius: 1px 1px 30px 30px;
+    margin: 0;
+    text-shadow: 5px 4px #575757;
+}
+.ew{
+    margin-top:2rem ;
+    border: 0px solid white ;
+    margin-left:15rem ;
+    margin-right:15rem ;
+    
+}
+.et{
+    font-size: 3rem;
+    font-weight: 600;
+    float: left;
+    text-align: center;
+    padding: 5rem;
+}
+.eq{
+    border: 0px solid rgb(255, 255, 255);
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-indent: 2rem;
+    padding: 1rem;
+    
+}
+li{
+    text-indent: -2.6rem;
+    padding-left: 4rem;
+     font-size: 2rem;
+ 
+    }
+
+
+
+ .yi{
+    text-align: center;
+    font-size: 3.5rem;
+    text-decoration: underline;
+
+}
+.we{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+}
+
+img{
+    width: 18rem;
+    justify-content: center;
+    justify-items: center;
+    padding: 0;
+    object-fit: cover;
+    width: 40rem;
+    border:1px solid white;
+    box-sizing: border-box;
+    
+}
+
+.df{
+    border: 3px solid rgb(255, 248, 248);
+    width: 40rem;
+    height: 55rem;
+
+}
+.tr{
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom:1rem ;
+    font-weight: 600;
+    padding-top:2rem ;
+    
+}
+.nama{
+    font-size: 3.2rem;
+    text-decoration: underline;
+}
+.noma{
+    padding-left:2rem ;
+}
+.noma1{
+    font-size: 2.7rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.noma2{
+    font-size: 2rem;
+}
+.noma3{
+    margin-top: 2rem;
+}
+strong.yg{
+    font-size: 2.3rem;
+}
+.ul{
+    font-size: 4rem;
+    margin-top: 5rem;
+    text-decoration: underline;
+    padding-left: 2rem ;
+}
+.ul2{
+    margin-bottom:3rem ;
+    font-size: 4rem ;
+    font-weight: 600;
+    margin-top: 3rem;
+}
+.ul3{
+    width: 20rem;
+    
+}
+.ul4{
+    font-size: 3rem;
+    margin-bottom: 5rem;
+}
+.ul5{
+    margin-bottom:3rem ;
+    font-size: 4rem ;
+    font-weight: 600;
+    margin-top: 10rem;
+}
